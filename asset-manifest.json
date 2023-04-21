@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/topnetflixmovies/static/css/main.35eb3258.css",
+    "main.js": "/topnetflixmovies/static/js/main.5e93fc31.js",
+    "index.html": "/topnetflixmovies/index.html",
+    "main.35eb3258.css.map": "/topnetflixmovies/static/css/main.35eb3258.css.map",
+    "main.5e93fc31.js.map": "/topnetflixmovies/static/js/main.5e93fc31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35eb3258.css",
+    "static/js/main.5e93fc31.js"
+  ]
+}
