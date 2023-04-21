@@ -1,7 +1,7 @@
 const SerData = [
     {
         sername : "ATHENA",
-        imgscr : "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsPClS6v0aKmxHauTEP4eyhQyjTbTRey9FiYRAsUbPxxbOh5Ns",
+        imgscr : "https://m.media-amazon.com/images/M/MV5BNGY2OTg3ZjAtNTYyMC00MzAwLTg5NzEtZTdkNmFlMzA2ZGY5XkEyXkFqcGdeQXVyODA0MjgyNzM@._V1_.jpg",
         title : "Netflix Original Series",
         links : "https://www.netflix.com/in/title/81312828"
     },
